@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CC63B53C29B2D6A2004E46AA /* SwiftUI_IntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC63B53B29B2D6A2004E46AA /* SwiftUI_IntermediateApp.swift */; };
-		CC63B53E29B2D6A2004E46AA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC63B53D29B2D6A2004E46AA /* ContentView.swift */; };
 		CC63B54029B2D6A3004E46AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC63B53F29B2D6A3004E46AA /* Assets.xcassets */; };
 		CC63B54329B2D6A3004E46AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC63B54229B2D6A3004E46AA /* Preview Assets.xcassets */; };
 		CC63B54A29B38AE3004E46AA /* LongPressGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC63B54929B38AE3004E46AA /* LongPressGesture.swift */; };
@@ -17,7 +16,6 @@
 /* Begin PBXFileReference section */
 		CC63B53829B2D6A2004E46AA /* SwiftUI_Intermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Intermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC63B53B29B2D6A2004E46AA /* SwiftUI_IntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_IntermediateApp.swift; sourceTree = "<group>"; };
-		CC63B53D29B2D6A2004E46AA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CC63B53F29B2D6A3004E46AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC63B54229B2D6A3004E46AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CC63B54929B38AE3004E46AA /* LongPressGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGesture.swift; sourceTree = "<group>"; };
@@ -54,7 +52,6 @@
 			isa = PBXGroup;
 			children = (
 				CC63B53B29B2D6A2004E46AA /* SwiftUI_IntermediateApp.swift */,
-				CC63B53D29B2D6A2004E46AA /* ContentView.swift */,
 				CC63B54929B38AE3004E46AA /* LongPressGesture.swift */,
 				CC63B53F29B2D6A3004E46AA /* Assets.xcassets */,
 				CC63B54129B2D6A3004E46AA /* Preview Content */,
@@ -140,7 +137,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC63B53E29B2D6A2004E46AA /* ContentView.swift in Sources */,
 				CC63B53C29B2D6A2004E46AA /* SwiftUI_IntermediateApp.swift in Sources */,
 				CC63B54A29B38AE3004E46AA /* LongPressGesture.swift in Sources */,
 			);
