@@ -12,7 +12,12 @@ struct SwiftUI_IntermediateApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            LongPressGesture()
+//            LongPressGesturePractice()
+//            MagnificationGesturePractice()
+//            RotatationGesturePractice()
+//            DragGesturePractice()
+//            GeometryReaderPractice()
+            MaskPractice()
         }
     }
 }

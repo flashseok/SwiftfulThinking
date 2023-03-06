@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct LongPressGesture: View {
+struct LongPressGesturePractice: View {
     
     @State var isComplete: Bool = false
     @State var isSuccess: Bool = false
@@ -66,8 +66,6 @@ struct LongPressGesture: View {
                         }
                     })
 
-
-                
                 Text("Reset")
                     .foregroundColor(.white)
                     .padding()
@@ -92,6 +90,6 @@ struct LongPressGesture: View {
 
 struct LongPressGesture_Previews: PreviewProvider {
     static var previews: some View {
-        LongPressGesture()
+        LongPressGesturePractice()
     }
 }
